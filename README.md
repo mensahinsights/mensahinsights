@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gamal Mensah
+# 👋🏾 Hi, I'm Gamal Mensah
 
 Welcome to my GitHub profile. I use this space to share data projects, explore business questions, and build tools that make analysis easier and more impactful.
 
