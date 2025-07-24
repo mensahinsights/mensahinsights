@@ -6,7 +6,9 @@ Welcome to my GitHub profile. I use this space to share data projects, explore b
 
 ## 🧑‍💼 About Me
 
-I'm a Toronto-based data analyst with a background in product development, consumer insights, and workflow automation. I specialise in making data actionable—whether it's surfacing retention patterns, building dashboards, or automating repetitive reporting.
+I'm a Toronto-based data analyst with a background in business transformation, product development, consumer insights, and workflow automation. I specialise in making data actionable through exploratory data analysis (EDA), whether it's surfacing retention patterns, building dashboards, or automating repetitive reporting.
+
+My exploratory analysis pinpoints what’s changing, why it matters, and what to do next, so teams and stakeholders I collaborate with aren’t just informed, they’re equipped to act.
 
 ---
 
@@ -16,6 +18,8 @@ I'm a Toronto-based data analyst with a background in product development, consu
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0086C4?style=for-the-badge&logo=sas&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FE4B2A?style=for-the-badge&logo=uipath&logoColor=white)
 
 ---
 
