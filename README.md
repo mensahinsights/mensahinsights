@@ -37,7 +37,7 @@ My exploratory analysis pinpoints what’s changing, why it matters, and what to
 
 ## Let’s Connect
 
-I'm currently open to data analyst, BI specialist, and insights roles in Canada (remote or hybrid). If you’d like to collaborate, hire, have conversations around insights, storytelling, or problem-solving with data:
+I'm currently open to data analyst, BI specialist, and insights roles in Canada (remote or hybrid). If you’d like to collaborate, hire, have a conversation around insights, storytelling, or problem-solving with data, please reach out:
 
 📫 [LinkedIn](https://www.linkedin.com/in/gmensah-analytics)  
 🌐 [Portfolio Site](https://gmensah-analytics.github.io/portfolio)  
