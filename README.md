@@ -1,6 +1,6 @@
 # Hi, I'm Gamal
 
-Welcome to my GitHub profile. I use this space to share data projects, explore business questions, and build tools that make analysis easier and more impactful.
+Welcome to my corner of GitHub! This is where curiosity meets code, business problems get solved, and I share the tools that make data analysis actually enjoyable.
 
 ---
 
