@@ -1,10 +1,10 @@
-# 👋🏾 Hi, I'm Gamal Mensah
+# Hi, I'm Gamal Mensah
 
 Welcome to my GitHub profile. I use this space to share data projects, explore business questions, and build tools that make analysis easier and more impactful.
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
 I'm a Toronto-based data analyst with a background in business transformation, product development, consumer insights, and workflow automation. I specialise in making data actionable through exploratory data analysis (EDA), whether it's surfacing retention patterns, building dashboards, or automating repetitive reporting.
 
@@ -12,7 +12,7 @@ My exploratory analysis pinpoints what’s changing, why it matters, and what to
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
@@ -23,7 +23,7 @@ My exploratory analysis pinpoints what’s changing, why it matters, and what to
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -35,7 +35,7 @@ My exploratory analysis pinpoints what’s changing, why it matters, and what to
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/gmensah-analytics)  
 🌐 [Portfolio Site](https://gmensah-analytics.github.io/portfolio)  
