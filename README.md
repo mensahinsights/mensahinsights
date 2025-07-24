@@ -1,6 +1,6 @@
 # Hi, I'm Gamal
 
-Welcome to my corner of GitHub! This is where curiosity meets code, business problems get solved, and I share the tools that make data analysis actually enjoyable.
+Welcome to my corner of GitHub! This is where curiosity meets code, business problems get solved, and I share the tools that make data analysis truly enjoyable.
 
 ---
 
