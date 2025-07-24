@@ -19,14 +19,6 @@ I'm a Toronto-based data analyst with a background in product development, consu
 
 ---
 
-## 📊 GitHub Activity
-
-![Gamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmensah-analytics&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmensah-analytics&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gmensah-analytics&theme=default)](https://git.io/streak-stats)
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tools |
