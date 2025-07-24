@@ -25,22 +25,10 @@ I'm curious by nature, find patterns in data, rhythm in code, and derive joy in 
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [GreenLeaf Florists](https://github.com/gmensah-analytics/greenleaf-florists) | Customer retention & segmentation case study | Python, Power BI |
-| [Monkey Metrics](https://github.com/gmensah-analytics/monkey-metrics) | Data-for-good project on spider monkey behaviour | Python, GIS |
-| [Retail Compliance](https://github.com/gmensah-analytics/retail-compliance) | Store-level performance dashboard | SQL, Power BI |
-| [Finance Tracker (Etsy)](https://github.com/gmensah-analytics/finance-dashboard) | Budgeting tool for passive income | Excel |
-| [Job Search Assistant](https://github.com/gmensah-analytics/job-search-assistant) | Python kit to automate job discovery | Python, APIs |
-
----
-
 ## Let’s Connect
 
 I'm currently open to data analyst, BI specialist, and insights roles in Canada (remote or hybrid). If you’d like to collaborate, hire, have a conversation around insights, storytelling, or problem-solving with data, please reach out:
 
-📫 [LinkedIn](https://www.linkedin.com/in/gmensah-analytics)  
+📫 [LinkedIn](https://www.linkedin.com/in/gamal-mensah)  
 🌐 [Portfolio Site](https://gmensah-analytics.github.io/portfolio)  
 ✉️ Email: gmensah.analytics@gmail.com
