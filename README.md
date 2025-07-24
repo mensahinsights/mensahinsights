@@ -10,7 +10,7 @@ I'm a Toronto-based data analyst with a background in business transformation, p
 
 My analysis doesn't just show what's happening, it reveals why it matters and what to do about it. Stakeholders walk away ready to act, not just informed.
 
-I'm curious by nature and find patterns in data, rhythm in code, and derive joy in building things that work, whether that’s a reporting dashboard or my cleverly wired smart home setup. When I’m not solving for insight, I’m probably out exploring Toronto’s hidden corners or deep in a conversation about music, travel, my favourite pizza, or what makes a great espresso.
+I'm curious by nature, find patterns in data, rhythm in code, and derive joy in building things that work, whether that’s a reporting dashboard or my cleverly wired smart home setup. When I’m not solving for insight, I’m probably out exploring Toronto’s hidden corners or deep in a conversation about music, travel, my favourite pizza, or what makes a great espresso.
 
 ---
 
