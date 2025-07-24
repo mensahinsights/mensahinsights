@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I use this space to share data projects, explore b
 
 I'm a Toronto-based data analyst with a background in business transformation, product development, consumer insights, and workflow automation. I specialise in making data actionable through exploratory data analysis, whether it's surfacing retention patterns, building dashboards, or automating repetitive reporting. 
 
-Exploratory analysis that I conduct pinpoints what’s changing, why it matters, and what to do next, so business teams and all impacted stakeholders that I collaborate with aren’t just informed, they’re equipped to act.
+Exploratory analysis that I conduct pinpoints what’s changing, why it matters, and what to do next, so business teams and impacted stakeholders that I collaborate with aren’t just informed, they’re equipped to act.
 
 I'm curious by nature and find patterns in data, rhythm in code, and derive joy in building things that work, whether that’s a reporting dashboard or my cleverly wired smart home setup. When I’m not solving for insight, I’m probably out exploring Toronto’s hidden corners or deep in a conversation about music, travel, my favourite pizza, or what makes a great espresso.
 
