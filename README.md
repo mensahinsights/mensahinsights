@@ -14,12 +14,12 @@ My exploratory analysis pinpoints what’s changing, why it matters, and what to
 
 ## Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0086C4?style=for-the-badge&logo=sas&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FE4B2A?style=for-the-badge&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F3A93?style=for-the-badge&logo=python&logoColor=FFE873)
+![Power BI](https://img.shields.io/badge/Power%20BI-4A4A4A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![SQL](https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2B7A78?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-4B6587?style=for-the-badge&logo=sas&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-7F4F24?style=for-the-badge&logo=uipath&logoColor=F5F5F5)
 
 ---
 
