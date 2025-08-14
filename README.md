@@ -29,6 +29,6 @@ Naturally curious about everything from data anomalies to why my smart home auto
 
 I'm currently open to data analyst, BI specialist, and insights roles in Canada (on-site, remote or hybrid). If you’d like to collaborate, hire, have a conversation around insights, storytelling, or problem-solving with data, I look forward to you reaching out:
 
-📫 [LinkedIn](https://www.linkedin.com/in/gamal-mensah)  
+📫 [LinkedIn](https://www.linkedin.com/in/gamalmensah)  
 🌐 [Portfolio Site](https://mensahinsights.ca)  
 ✉️ Email: gmensah.analytics@gmail.com
