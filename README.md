@@ -6,7 +6,7 @@ Welcome to my corner of GitHub! This is where curiosity meets code, business pro
 
 ## About Me
 
-I'm a Toronto-based 🇨🇦 data analyst with a background in business transformation, product development, consumer insights, and workflow automation. I specialize in making data actionable through exploratory data analysis, whether that involves surfacing retention patterns, building dashboards, or automating repetitive reporting. 
+I'm a Toronto-based 🍁 data analyst with a background in business transformation, product development, consumer insights, and workflow automation. I specialize in making data actionable through exploratory data analysis, whether that involves surfacing retention patterns, building dashboards, or automating repetitive reporting. 
 
 My analysis doesn't just show what's happening, it reveals why it matters and what to do about it. Stakeholders walk away ready to act, not just informed.
 
