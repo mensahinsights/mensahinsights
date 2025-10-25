@@ -11,7 +11,7 @@ If you're stuck on a tricky analysis or tired of manual reporting, there's proba
 
 ## Background
 
-Toronto-based🍁. Spent years in business transformation and product development before focusing full-time on data. Outside of work, I'm tweaking smart home setups, arguing about pizza, or planning the next trip.
+Toronto-based🍁. Spent years in business transformation and product development before focusing full-time on data. Outside of work, I'm tweaking smart home setups, always eager to talk pizza, or planning the next trip.
 
 ---
 
