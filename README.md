@@ -1,18 +1,17 @@
-# Hi, I'm Gamal
+## What I'm building
 
-Welcome to my corner of GitHub! This is where curiosity meets code, business problems get solved, and I share the tools that make data analysis truly enjoyable.
+Analyses and automations I've built to solve real problems, not just demonstrate techniques. Most of my work involves digging through data until the patterns start making sense, then building dashboards or automations so teams don't have to keep asking the same questions.
 
----
+I work primarily in SQL, Python, and Power BI, focusing on retention analysis and workflow automation. The goal is always the same: make the insight obvious and the action clear.
 
-## About Me
+## What's here
 
-I'm a Toronto-based 🍁 data analyst with a background in business transformation, product development, consumer insights, and workflow automation. 
+This is where I share the approaches and scripts I keep coming back to. Real solutions for when data doesn't behave, reusable code that saves you from starting from scratch, and techniques I wish someone had shown me earlier.
+If you're stuck on a tricky analysis or tired of manual reporting, there's probably something here that'll help.
 
-I specialize in making data actionable through exploratory data analysis, whether that involves surfacing retention patterns, building dashboards, or automating repetitive reporting. 
+## Background
 
-My analysis doesn't just show what's happening, it reveals why it matters and what to do about it. Stakeholders walk away ready to act, not just informed.
-
-Naturally curious about everything from data anomalies to why my smart home automations work so well. Between projects, I'm usually exploring Toronto, discussing travel stories, or defending my pizza opinions.
+Toronto-based🍁. Spent years in business transformation and product development before focusing full-time on data. Outside of work, I'm tweaking smart home setups, arguing about pizza, or planning the next trip.
 
 ---
 
