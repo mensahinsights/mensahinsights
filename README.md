@@ -1,6 +1,6 @@
 ## What's here 
 
-Analyses and automations I've built to solve real problems, not just demonstrate techniques. Most of my work involves digging through data until the patterns start making sense, then building dashboards or automations so teams don't have to keep asking the same questions.
+Analysis and automations I've built to solve real problems, not just demonstrate techniques. Most of my work involves digging through data until the patterns start making sense, then building dashboards or automations so teams don't have to keep asking the same questions.
 
 I work primarily in SQL, Python, Power BI, n8n, and UiPath, focusing on retention analysis and workflow automation. The goal is always the same: make the insight obvious and the action clear.
 
